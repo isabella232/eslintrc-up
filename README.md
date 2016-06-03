@@ -16,6 +16,9 @@ npm install eslintrc-up --save
 
 ##### eslintrcUp.sync([options])
 
+Find the closest eslint config using synchronous functions, only option at the moment is `cwd` which defaults
+to `process.cwd()`.
+
 [npm-image]: https://img.shields.io/npm/v/eslintrc-up.svg?style=flat-square
 [npm-url]: https://npmjs.org/package/eslintrc-up
 [travis-image]: https://img.shields.io/travis/olahol/eslintrc-up/master.svg?style=flat-square
