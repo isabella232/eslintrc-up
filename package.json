@@ -13,7 +13,7 @@
   "bugs": {
     "url": "https://github.com/olahol/eslintrc-up/issues"
   },
-  "homepage": "https://github.com/olahol/eslintrc-up"
+  "homepage": "https://github.com/olahol/eslintrc-up",
   "author": "Ola Holmström",
   "license": "ISC",
   "dependencies": {
